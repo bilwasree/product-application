@@ -1,0 +1,19 @@
+.header{
+  background-color: bisque;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+.active{
+  background-color: brown;
+  color:white;
+}
+.image{
+  width:200px;
+}
+.para{
+  color: brown;
+}
+.card{
+  display: flex;
+}
